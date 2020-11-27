@@ -1,0 +1,267 @@
+1606233061622	geckodriver	INFO	Listening on 127.0.0.1:49924
+1606233064693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofilehiFFhG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606233066751	Marionette	INFO	Listening on port 49937
+1606233066847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606234791582	Marionette	INFO	Stopped listening on port 49937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileIAgMka"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606233075810	Marionette	INFO	Listening on port 50008
+1606233076051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606234793391	Marionette	INFO	Stopped listening on port 50008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilexN0hgr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606233082818	Marionette	INFO	Listening on port 50072
+1606233082979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606234795053	Marionette	INFO	Stopped listening on port 50072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileNIDCRO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606233089871	Marionette	INFO	Listening on port 50113
+1606233090265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606234796509	Marionette	INFO	Stopped listening on port 50113
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile7kgxyP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606233294359	Marionette	INFO	Listening on port 50335
+1606233294711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606234797933	Marionette	INFO	Stopped listening on port 50335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileaOzpCt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606234777948	Marionette	INFO	Listening on port 50662
+1606234778286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235077688	Marionette	INFO	Stopped listening on port 50662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606235088126	geckodriver	INFO	Listening on 127.0.0.1:50732
+1606235091192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofilevloPxW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235092911	Marionette	INFO	Listening on port 50740
+1606235093227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235162409	Marionette	INFO	Stopped listening on port 50740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofiletelA2j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235099985	Marionette	INFO	Listening on port 50791
+1606235100141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235110095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606235157266	Marionette	INFO	Stopped listening on port 50791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606235180347	geckodriver	INFO	Listening on 127.0.0.1:50856
+1606235183406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofileKhWB94"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235185070	Marionette	INFO	Listening on port 50866
+1606235185461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235380853	Marionette	INFO	Stopped listening on port 50866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606235462776	geckodriver	INFO	Listening on 127.0.0.1:51003
+1606235465847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofileeo4MSB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235467575	Marionette	INFO	Listening on port 51011
+1606235467905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235806078	Marionette	INFO	Stopped listening on port 51011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileHxyDM8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235476136	Marionette	INFO	Listening on port 51063
+1606235476457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235801909	Marionette	INFO	Stopped listening on port 51063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606235810233	geckodriver	INFO	Listening on 127.0.0.1:51168
+1606235813290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofilextU8Id"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235815149	Marionette	INFO	Listening on port 51176
+1606235815342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606235873249	Marionette	INFO	Stopped listening on port 51176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606235880209	geckodriver	INFO	Listening on 127.0.0.1:51221
+1606235883278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofile3Ulft8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606235884944	Marionette	INFO	Listening on port 51229
+1606235885347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606236295115	Marionette	INFO	Stopped listening on port 51229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606236711196	geckodriver	INFO	Listening on 127.0.0.1:50039
+1606236714219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofileWOjkYN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236716221	Marionette	INFO	Listening on port 50047
+1606236716283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606237107698	Marionette	INFO	Stopped listening on port 50047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileNbkXfr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606237006004	Marionette	INFO	Listening on port 50285
+1606237006305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1606489291212	Marionette	INFO	Stopped listening on port 50285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606489308434	geckodriver	INFO	Listening on 127.0.0.1:50547
+1606489311546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rawan\\AppData\\Local\\Temp\\rust_mozprofiletj06HX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606489313477	Marionette	INFO	Listening on port 50555
+1606489313644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+JavaScript warning: http://www.jodidb.org/Common/Util/util.js, line 1760: unreachable code after return statement
+1606489967863	Marionette	INFO	Stopped listening on port 50555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
